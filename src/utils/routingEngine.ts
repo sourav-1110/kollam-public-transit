@@ -53,17 +53,39 @@ export function calculateHaversineDistance(
 /**
  * Finds the nearest stop to a given coordinate.
  */
-export function findNearestStop(lat: number, lng: number): { stop: Stop; distanceKm: number } {
-  let nearestStop = stopsData[0];
-  let minDistance = calculateHaversineDistance(lat, lng, nearestStop.lat, nearestStop.lng);
+export function findNearestStop(
+  lat: number,
+  lng: number,
+  onlyActiveBusStops: boolean = false
+): { stop: Stop; distanceKm: number } {
+  // Build active stops list if onlyActiveBusStops is true
+  const activeStopIds = new Set<string>();
+  if (onlyActiveBusStops) {
+    routesData.forEach((route) => {
+      route.stops.forEach((rs) => activeStopIds.add(rs.stopId));
+    });
+  }
 
-  for (let i = 1; i < stopsData.length; i++) {
+  let nearestStop = stopsData[0];
+  let minDistance = 999999;
+  let found = false;
+
+  for (let i = 0; i < stopsData.length; i++) {
     const stop = stopsData[i];
+    if (onlyActiveBusStops && !activeStopIds.has(stop.id)) {
+      continue;
+    }
     const dist = calculateHaversineDistance(lat, lng, stop.lat, stop.lng);
     if (dist < minDistance) {
       minDistance = dist;
       nearestStop = stop;
+      found = true;
     }
+  }
+
+  // Fallback to absolute nearest if no active stop found
+  if (!found) {
+    return findNearestStop(lat, lng, false);
   }
 
   return { stop: nearestStop, distanceKm: minDistance };
@@ -200,9 +222,9 @@ export function calculateRoute(
   endLat: number,
   endLng: number
 ): PathResult | null {
-  // 1. Detect nearest stops
-  const startStopResult = findNearestStop(startLat, startLng);
-  const endStopResult = findNearestStop(endLat, endLng);
+  // 1. Detect nearest active bus stops for transit routing
+  const startStopResult = findNearestStop(startLat, startLng, true);
+  const endStopResult = findNearestStop(endLat, endLng, true);
 
   const startStop = startStopResult.stop;
   const endStop = endStopResult.stop;

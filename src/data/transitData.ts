@@ -136,7 +136,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Bustling junction connecting Pathanamthitta district to eastern Kollam routes.'
   },
-  {
+{
     id: 'stop-andamukkam',
     name: 'Andamukkam',
     lat: 8.883568,
@@ -144,7 +144,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ksrtc-junction',
     name: 'KSRTC Junction',
     lat: 8.891037,
@@ -152,7 +152,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pallimukku',
     name: 'Pallimukku',
     lat: 8.876388,
@@ -160,7 +160,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kilikollur',
     name: 'Kilikollur',
     lat: 8.918129,
@@ -168,7 +168,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kavanad',
     name: 'Kavanad',
     lat: 8.888065,
@@ -176,7 +176,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-sakthikulangara',
     name: 'Sakthikulangara',
     lat: 8.896460,
@@ -184,7 +184,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-neendakara',
     name: 'Neendakara',
     lat: 8.896060,
@@ -192,7 +192,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-uliyakovil',
     name: 'Uliyakovil',
     lat: 8.905008,
@@ -200,7 +200,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thirumullavaram',
     name: 'Thirumullavaram',
     lat: 8.883745,
@@ -208,7 +208,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-beach-road',
     name: 'Beach Road',
     lat: 8.881166,
@@ -216,7 +216,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kochupilamoodu',
     name: 'Kochupilamoodu',
     lat: 8.880587,
@@ -224,7 +224,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-cantonment',
     name: 'Cantonment',
     lat: 8.881420,
@@ -232,7 +232,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-asramam',
     name: 'Asramam',
     lat: 8.893876,
@@ -240,7 +240,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-collectorate',
     name: 'Collectorate',
     lat: 8.894749,
@@ -248,7 +248,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mangad',
     name: 'Mangad',
     lat: 8.918643,
@@ -256,7 +256,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mevaram',
     name: 'Mevaram',
     lat: 8.868522,
@@ -267,12 +267,12 @@ export const stopsData: Stop[] = [
   {
     id: 'stop-polayathode',
     name: 'Polayathode',
-    lat: 8.859896,
-    lng: 76.601100,
+    lat: 8.877200,
+    lng: 76.604400,
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-koottikada',
     name: 'Koottikada',
     lat: 8.851183,
@@ -280,7 +280,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kureepuzha',
     name: 'Kureepuzha',
     lat: 8.891055,
@@ -288,7 +288,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-anchalummoodu',
     name: 'Anchalummoodu',
     lat: 8.932778,
@@ -296,7 +296,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-perumon',
     name: 'Perumon',
     lat: 8.955283,
@@ -304,7 +304,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-panayam',
     name: 'Panayam',
     lat: 8.962758,
@@ -312,7 +312,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mulavana',
     name: 'Mulavana',
     lat: 9.002659,
@@ -320,7 +320,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thrikkadavoor',
     name: 'Thrikkadavoor',
     lat: 8.920596,
@@ -328,7 +328,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thrikkaruva',
     name: 'Thrikkaruva',
     lat: 8.946247,
@@ -336,7 +336,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-umayanalloor',
     name: 'Umayanalloor',
     lat: 8.865332,
@@ -344,7 +344,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-perinad',
     name: 'Perinad',
     lat: 8.948465,
@@ -352,7 +352,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mayyanad',
     name: 'Mayyanad',
     lat: 8.839594,
@@ -360,7 +360,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kottiyam',
     name: 'Kottiyam',
     lat: 8.866070,
@@ -368,7 +368,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kundara-east',
     name: 'Kundara East',
     lat: 8.969463,
@@ -376,7 +376,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-elampalloor',
     name: 'Elampalloor',
     lat: 8.956007,
@@ -384,7 +384,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pallimon',
     name: 'Pallimon',
     lat: 8.900617,
@@ -392,7 +392,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vellimon',
     name: 'Vellimon',
     lat: 8.951740,
@@ -400,7 +400,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-perumpuzha',
     name: 'Perumpuzha',
     lat: 8.938789,
@@ -408,7 +408,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-koivila',
     name: 'Koivila',
     lat: 8.996287,
@@ -416,7 +416,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thazhuthala',
     name: 'Thazhuthala',
     lat: 8.882931,
@@ -424,7 +424,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thazhava',
     name: 'Thazhava',
     lat: 9.096499,
@@ -432,7 +432,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ochira',
     name: 'Ochira',
     lat: 9.131837,
@@ -440,7 +440,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-clappana',
     name: 'Clappana',
     lat: 9.100677,
@@ -448,7 +448,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-oachira-temple',
     name: 'Oachira Temple',
     lat: 9.135174,
@@ -456,7 +456,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-alumkadavu',
     name: 'Alumkadavu',
     lat: 9.057974,
@@ -464,7 +464,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-azheekal',
     name: 'Azheekal',
     lat: 9.060626,
@@ -472,7 +472,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thevalakkara',
     name: 'Thevalakkara',
     lat: 8.997672,
@@ -480,7 +480,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mynagappally',
     name: 'Mynagappally',
     lat: 9.039542,
@@ -488,7 +488,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-panmana',
     name: 'Panmana',
     lat: 9.008215,
@@ -496,7 +496,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-chavara-south',
     name: 'Chavara South',
     lat: 8.972759,
@@ -504,7 +504,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-sankaramangalam',
     name: 'Sankaramangalam',
     lat: 8.993925,
@@ -516,11 +516,11 @@ export const stopsData: Stop[] = [
     id: 'stop-kovilthottam',
     name: 'Kovilthottam',
     lat: 8.995283,
-    lng: 76.523163,
+    lng: 76.603163,
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vallikavu',
     name: 'Vallikavu',
     lat: 9.093524,
@@ -528,7 +528,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kulasekharapuram',
     name: 'Kulasekharapuram',
     lat: 9.091242,
@@ -536,7 +536,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-alappad',
     name: 'Alappad',
     lat: 9.062687,
@@ -544,7 +544,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-cheriazheekal',
     name: 'Cheriazheekal',
     lat: 9.051187,
@@ -552,7 +552,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thodiyoor',
     name: 'Thodiyoor',
     lat: 9.075077,
@@ -563,12 +563,12 @@ export const stopsData: Stop[] = [
   {
     id: 'stop-lalaji-junction',
     name: 'Lalaji Junction',
-    lat: 8.828987,
-    lng: 76.517169,
+    lat: 9.062800,
+    lng: 76.536100,
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-paravur',
     name: 'Paravur',
     lat: 8.809889,
@@ -576,7 +576,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-poothakkulam',
     name: 'Poothakkulam',
     lat: 8.804269,
@@ -584,7 +584,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-nedungolam',
     name: 'Nedungolam',
     lat: 8.839231,
@@ -592,7 +592,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kottankulangara',
     name: 'Kottankulangara',
     lat: 8.805695,
@@ -600,7 +600,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-edava-naduvil',
     name: 'Edava Naduvil',
     lat: 8.819349,
@@ -608,7 +608,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pozhikara',
     name: 'Pozhikara',
     lat: 8.815748,
@@ -619,12 +619,12 @@ export const stopsData: Stop[] = [
   {
     id: 'stop-kappil',
     name: 'Kappil',
-    lat: 8.787411,
-    lng: 76.668965,
+    lat: 8.784400,
+    lng: 76.674800,
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-meenad',
     name: 'Meenad',
     lat: 8.852051,
@@ -632,7 +632,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-puttingal',
     name: 'Puttingal',
     lat: 8.812686,
@@ -640,7 +640,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pulamon',
     name: 'Pulamon',
     lat: 9.004805,
@@ -648,7 +648,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-chengamanad',
     name: 'Chengamanad',
     lat: 8.993469,
@@ -656,7 +656,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mylom',
     name: 'Mylom',
     lat: 9.029159,
@@ -664,7 +664,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ezhukone',
     name: 'Ezhukone',
     lat: 8.979520,
@@ -672,7 +672,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-valakom',
     name: 'Valakom',
     lat: 8.954421,
@@ -680,7 +680,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pavithreswaram',
     name: 'Pavithreswaram',
     lat: 9.007123,
@@ -688,7 +688,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-nilamel',
     name: 'Nilamel',
     lat: 8.823471,
@@ -696,7 +696,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-chadayamangalam',
     name: 'Chadayamangalam',
     lat: 8.871914,
@@ -704,7 +704,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kadakkal',
     name: 'Kadakkal',
     lat: 8.827868,
@@ -712,7 +712,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-jatayupara',
     name: 'Jatayupara',
     lat: 8.874917,
@@ -720,7 +720,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ayoor',
     name: 'Ayoor',
     lat: 8.897861,
@@ -728,7 +728,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-yeroor',
     name: 'Yeroor',
     lat: 8.935959,
@@ -736,7 +736,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-karavaloor',
     name: 'Karavaloor',
     lat: 8.980772,
@@ -744,7 +744,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thenmala',
     name: 'Thenmala',
     lat: 8.965265,
@@ -752,7 +752,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-aryankavu',
     name: 'Aryankavu',
     lat: 8.981162,
@@ -760,7 +760,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-edamon',
     name: 'Edamon',
     lat: 9.003081,
@@ -768,7 +768,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-piravanthur',
     name: 'Piravanthur',
     lat: 9.062796,
@@ -776,7 +776,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pattazhy',
     name: 'Pattazhy',
     lat: 9.008618,
@@ -784,7 +784,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vilakkupara',
     name: 'Vilakkupara',
     lat: 8.949843,
@@ -792,7 +792,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kunnicode',
     name: 'Kunnicode',
     lat: 9.017076,
@@ -800,7 +800,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kulathupuzha',
     name: 'Kulathupuzha',
     lat: 8.906535,
@@ -808,7 +808,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-manjappara',
     name: 'Manjappara',
     lat: 8.885964,
@@ -816,7 +816,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-alanchery',
     name: 'Alanchery',
     lat: 9.013172,
@@ -824,7 +824,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vilakudy',
     name: 'Vilakudy',
     lat: 9.030639,
@@ -832,7 +832,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-elampal',
     name: 'Elampal',
     lat: 9.025879,
@@ -840,7 +840,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-sasthamcotta',
     name: 'Sasthamcotta',
     lat: 9.050607,
@@ -848,7 +848,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-bharanikavu',
     name: 'Bharanikavu',
     lat: 9.059689,
@@ -856,7 +856,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-sooranad',
     name: 'Sooranad',
     lat: 9.104060,
@@ -864,7 +864,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-west-kallada',
     name: 'West Kallada',
     lat: 9.011439,
@@ -872,7 +872,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-east-kallada',
     name: 'East Kallada',
     lat: 9.008109,
@@ -880,7 +880,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-poruvazhy',
     name: 'Poruvazhy',
     lat: 9.072626,
@@ -888,7 +888,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kunnathur',
     name: 'Kunnathur',
     lat: 9.070971,
@@ -896,7 +896,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-manampuzha',
     name: 'Manampuzha',
     lat: 9.071435,
@@ -904,7 +904,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vazhayilmukku',
     name: 'Vazhayilmukku',
     lat: 8.942802,
@@ -912,7 +912,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mukkadamukku',
     name: 'Mukkadamukku',
     lat: 8.948032,
@@ -920,7 +920,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-nedumoncavu',
     name: 'Nedumoncavu',
     lat: 8.929563,
@@ -928,7 +928,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-chittumala',
     name: 'Chittumala',
     lat: 9.010352,
@@ -936,7 +936,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kumbalam',
     name: 'Kumbalam',
     lat: 8.990695,
@@ -944,7 +944,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mammoottilkadavu',
     name: 'Mammoottilkadavu',
     lat: 8.951417,
@@ -952,7 +952,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kanjiracode',
     name: 'Kanjiracode',
     lat: 8.970308,
@@ -960,7 +960,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-pravachambalam',
     name: 'Pravachambalam',
     lat: 8.973504,
@@ -968,7 +968,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thalachira',
     name: 'Thalachira',
     lat: 8.982498,
@@ -976,7 +976,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-mailakkadu',
     name: 'Mailakkadu',
     lat: 8.914345,
@@ -984,7 +984,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-paravoor-kavala',
     name: 'Paravoor Kavala',
     lat: 8.955501,
@@ -992,7 +992,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kaithacode',
     name: 'Kaithacode',
     lat: 9.002659,
@@ -1000,7 +1000,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ambalathumkala',
     name: 'Ambalathumkala',
     lat: 8.986946,
@@ -1008,7 +1008,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-vayyankala',
     name: 'Vayyankala',
     lat: 8.948151,
@@ -1016,7 +1016,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kuzhimathicadu',
     name: 'Kuzhimathicadu',
     lat: 8.958125,
@@ -1024,7 +1024,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-melila',
     name: 'Melila',
     lat: 9.010787,
@@ -1032,7 +1032,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-cherupoika',
     name: 'Cherupoika',
     lat: 9.029472,
@@ -1040,7 +1040,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-thamarakudy',
     name: 'Thamarakudy',
     lat: 9.048690,
@@ -1048,7 +1048,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-naduvil',
     name: 'Naduvil',
     lat: 8.816223,
@@ -1056,7 +1056,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kaithode',
     name: 'Kaithode',
     lat: 8.828792,
@@ -1064,7 +1064,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-kura',
     name: 'Kura',
     lat: 9.032747,
@@ -1072,7 +1072,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-panavely',
     name: 'Panavely',
     lat: 8.973120,
@@ -1080,7 +1080,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-ottackal',
     name: 'Ottackal',
     lat: 8.976012,
@@ -1088,7 +1088,7 @@ export const stopsData: Stop[] = [
     isTransferPoint: false,
     localTips: 'Minor bus stop.'
   },
-  {
+{
     id: 'stop-alimukku',
     name: 'Alimukku',
     lat: 9.056719,

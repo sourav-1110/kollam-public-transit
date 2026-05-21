@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { Sidebar } from './components/Sidebar';
 import { TransitMap } from './components/TransitMap';
 import type { PathResult } from './utils/routingEngine';
@@ -398,6 +399,7 @@ export default function App() {
         simulationProgress={simulationProgress}
         theme={theme}
       />
+      <Analytics />
     </div>
   );
 }

@@ -18,6 +18,7 @@ import {
   XCircle
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   // --- Transit Routing States ---
@@ -398,6 +399,7 @@ export default function App() {
         simulationProgress={simulationProgress}
         theme={theme}
       />
+      <Analytics />
     </div>
   );
 }
